@@ -3,3 +3,6 @@ url:https://muebleriagm.com/cpanel/
 username:may08mud
 
 password:GCruiz9GCruiz99
+
+solo localhost se usa esto, nombre del db, username y password
+$conexion = conexion('may08mud_muebleria','root','');
